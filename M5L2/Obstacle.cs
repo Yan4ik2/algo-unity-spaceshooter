@@ -4,10 +4,10 @@
  * 
  * Program description: 
  *      This program handles the collision between
- *      the game object and the Player.
+ *      the obstacle game object and the Player.
  * 
  * How to use the script:
- *      - Attach the script to the object/s
+ *      - Attach the script to the obstacle object
  * **************************************************/
 
 // libraries
