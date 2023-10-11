@@ -11,6 +11,8 @@
  * How to use the script:
  *      - Add the ready-made Space Shooter UI object
  *      - Attach the script to the Player
+ *      - Setup in the Inspector the method to be 
+ *         run when the Restart button is pressed
  * **************************************************/
 
 // libraries
